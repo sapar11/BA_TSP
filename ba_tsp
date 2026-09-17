@@ -7,8 +7,8 @@
 //
 // @match        *://*/*
 //
-// @updateURL   https://raw.githubusercontent.com/sapar11/BA_TSP/main/ba_tsp.user.js
-// @downloadURL https://raw.githubusercontent.com/sapar11/BA_TSP/main/ba_tsp.user.js
+// @updateURL    https://raw.githubusercontent.com/sapar11/BA_TSP/main/ba_tsp
+// @downloadURL https://raw.githubusercontent.com/sapar11/BA_TSP/main/ba_tsp
 //
 // @grant        none
 // ==/UserScript==
