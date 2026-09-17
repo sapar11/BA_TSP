@@ -1,32 +1,23 @@
 // ==UserScript==
-
-// @name         IKEA TSP 담당자 알림 (김지은)
-
-// @namespace    fursys.cs
-
-// @version      1.4
-
-// @description  작성자 또는 TSP처리예정자가 나인 건이 SP답변완료로 바뀌면 팝업과 소리로 알림
-
-// @match        https://csckms.net/*
-
-// @match        https://*.csckms.net/*
-
-// @include      *csckms.net*
-
-// @all-frames   true
-
-// @grant        GM_notification
-
-// @grant        GM_getValue
-
-// @grant        GM_setValue
-
-// @grant        GM_registerMenuCommand
-
-// @run-at       document-idle
-
+// @name         BA_TSP
+// @namespace    https://github.com/sapar11
+// @version      1.0.0
+// @description  BA_TSP Script
+// @author       sapar11
+//
+// @match        *://*/*
+//
+// @updateURL   https://raw.githubusercontent.com/sapar11/BA_TSP/main/ba_tsp.user.js
+// @downloadURL https://raw.githubusercontent.com/sapar11/BA_TSP/main/ba_tsp.user.js
+//
+// @grant        none
 // ==/UserScript==
+
+(function () {
+    'use strict';
+
+    console.log('BA_TSP Loaded');
+})();
 
 /*
 
